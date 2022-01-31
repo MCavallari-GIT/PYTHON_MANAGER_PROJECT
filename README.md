@@ -18,7 +18,9 @@ intended to manage guest reservations:
 - Cancel a reservation
 - List all the reservations
 - List all the unreserved tables
+
 Moreover, the software can fulfill the following simple statistical operations:
+
 - Show the number of reserved tables
 - Show the number of tables reserved with a specified number of guests
 - Show the number of booked guests overall
